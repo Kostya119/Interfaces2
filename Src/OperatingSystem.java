@@ -1,0 +1,3 @@
+interface OperatingSystem {
+    void displayOS();
+}
